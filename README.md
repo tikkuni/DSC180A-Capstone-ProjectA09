@@ -6,11 +6,13 @@ Our project carefully considers which statistical methods to employ in estimatin
 
 ## Project Structure
 
+```
 |____PCA_ICA_transform.ipynb
 |____.DS_Store
 |____requirements.txt
 |____nilearn_cache
 |____correlation_and_standard_errors.ipynb
+```
 
 ## Accessing and Retriving Data
 
