@@ -7,6 +7,7 @@ Our project carefully considers which statistical methods to employ in estimatin
 ## Project Structure
 
 ```
+|____README.md
 |____requirements.txt
 |____correlation_and_standard_errors.ipynb
 |____pca_ica_transform.ipynb
