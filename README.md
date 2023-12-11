@@ -6,11 +6,13 @@ Our project carefully considers which statistical methods to employ in estimatin
 
 ## Project Structure
 
-|____PCA_ICA_transform.ipynb
-|____.DS_Store
+```
 |____requirements.txt
-|____nilearn_cache
 |____correlation_and_standard_errors.ipynb
+|____pca_ica_transform.ipynb
+|____pairwise_correlations_of_time_series_data.ipynb
+|____pca_ica_of_time_series_data.ipynb
+```
 
 ## Accessing and Retriving Data
 
@@ -18,8 +20,9 @@ Our project carefully considers which statistical methods to employ in estimatin
 
 ## Running the Project
 
- * To install the dependencies, run the following command from the root directory of the project: `pip install -r requirements.txt`
+ * To install the python packages, run the following command from the root directory of the project: `pip install -r requirements.txt`
+ * Open up any of the juypter notebooks at the section you want to reproduce
 
 ## Reference
 
-[Hand Book of Functional MRI Data Analysis](https://www.cs.mtsu.edu/~xyang/fMRIHandBook.pdf)
+* [Hand Book of Functional MRI Data Analysis](https://www.cs.mtsu.edu/~xyang/fMRIHandBook.pdf)
